@@ -3,5 +3,6 @@ def oxford_comma(array)
     asdf
   elsif array.length === 2
   elsif array.length === 3
-  elsif array.length > 3
+  else
+  end
 end
